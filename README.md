@@ -14,9 +14,9 @@ CIMATEC 4 - 1 ANDAR, LAB REDES de COMPUTADORES
 
 ## Para criar sites, é necessário conhecer algumas linguagens e conceitos, que serão passados no curso:
 
- • HTML;
- • CSS;
- • JavaScript
+### • HTML;
+### • CSS;
+### • JavaScript
  
 Otimizamos esse conhecimento sobre programação  e criamos  esse curso de apenas um dia, para os estudantes que tenham maior interesse em conhecer essa área da tecnologia que é tão ampla e diversificada.
 
@@ -25,14 +25,14 @@ Tudo isso com o auxílio de Frameworks que também serão ensinados na aula, tai
 
 ## CONTEÚDO PROGRAMÁTICO
 
-  • HTML - (1h):
+###  • HTML - (1h):
     O que é e como Utilizar?;
     Editor de Texto;
     Estrutura HTML;
     Criando um MENU;
     Formulários;
 
-  • CSS - (1h):
+###  • CSS - (1h):
     O que é e como utilizar?;
     Usando as DIV, ID e CLASS;
     Formatando o Site;
@@ -42,7 +42,7 @@ Tudo isso com o auxílio de Frameworks que também serão ensinados na aula, tai
     Tabelas;
     Site Estilizado;
 
-  • Conceitos Básicos e Alguns Exemplos - (1h):
+###  • Conceitos Básicos e Alguns Exemplos - (1h):
     Lógica de Programação, Rápido e prático;
     FrameWorks:
     O que são?;
@@ -50,13 +50,13 @@ Tudo isso com o auxílio de Frameworks que também serão ensinados na aula, tai
     Quais os mais utilizados?;
     Por que utiliza-los?.
 
-  • JavaScript (JS) - (1h):
+###  • JavaScript (JS) - (1h):
     O que é e como utilizar?;
     Declarações;
     Funções;
     Defeitos e Qualidades.
 
-  •Hands-On - (2h):
+###  •Hands-On - (2h):
     Criando um Site Responsivo;
     Utilizando Bootstrap e Outros Frameworks 
 
@@ -70,12 +70,12 @@ Indicamos esse curso para aqueles que não tem conhecimento algum sobre o que fo
 É necessário que as pessoas que se inscreverem nesse curso, tenham um conhecimento básico ou iniciante em lógica de programação.
 
 # Materiais de Referência Utilizados:
-  • HTML: https://tableless.com.br/o-que-html-basico/
-  • HTML: https://www.w3schools.com/html/
-  • CSS: https://tableless.github.io/iniciantes/manual/css/
-  • CSS: https://developer.mozilla.org/pt-BR/docs/Web/CSS
-  • CSS: https://www.w3schools.com/css/
-  • JS: https://braziljs.org/
-  • JS: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-  • JS: https://www.w3schools.com/js/
+###  • HTML: https://tableless.com.br/o-que-html-basico/
+###  • HTML: https://www.w3schools.com/html/
+###  • CSS: https://tableless.github.io/iniciantes/manual/css/
+###  • CSS: https://developer.mozilla.org/pt-BR/docs/Web/CSS
+###  • CSS: https://www.w3schools.com/css/
+###  • JS: https://braziljs.org/
+###  • JS: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
+###  • JS: https://www.w3schools.com/js/
  
